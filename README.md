@@ -2,7 +2,7 @@
 
 # 🌟 Welcome to My Digital Universe 🌟
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Azizbek+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Open+Source+Contributor+%F0%9F%8C%8D;Always+Learning+%F0%9F%93%9A;Let's+Build+Something+Amazing!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Azizbek+%F0%9F%91%8B;Front+end+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Open+Source+Contributor+%F0%9F%8C%8D;Always+Learning+%F0%9F%93%9A;Let's+Build+Something+Amazing!" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -23,7 +23,7 @@ const azizbek = {
         backEnd: {
             js: ["Node.js", "Express"],
         },
-        databases: ["MongoDB", "PostgreSQL", "Redis"
+        databases: ["MongoDB",],
         tools: ["Git", "Postman", "Figma", "VS Code"]
     },
     currentFocus: "Building scalable web applications",
