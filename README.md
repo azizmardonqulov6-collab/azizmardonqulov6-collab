@@ -22,10 +22,8 @@ const azizbek = {
         },
         backEnd: {
             js: ["Node.js", "Express"],
-            python: ["Django", "Flask", "FastAPI"]
         },
-        databases: ["MongoDB", "PostgreSQL", "Redis"],
-        devOps: ["Docker", "AWS", "CI/CD", "Nginx"],
+        databases: ["MongoDB", "PostgreSQL", "Redis"
         tools: ["Git", "Postman", "Figma", "VS Code"]
     },
     currentFocus: "Building scalable web applications",
