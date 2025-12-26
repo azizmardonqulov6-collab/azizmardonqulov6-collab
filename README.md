@@ -2,7 +2,7 @@
 
 # 🌟 Welcome to My Digital Universe 🌟
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Azizbek+%F0%9F%91%8B;Front+end+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Open+Source+Contributor+%F0%9F%8C%8D;Always+Learning+%F0%9F%93%9A;Let's+Build+Something+Amazing!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Azizbek+%F0%9F%91%8B;Front+End+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Open+Source+Contributor+%F0%9F%8C%8D;Always+Learning+%F0%9F%93%9A;Let's+Build+Something+Amazing!" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -17,14 +17,14 @@ const azizbek = {
     code: ["JavaScript", "Python", "TypeScript", "HTML/CSS"],
     technologies: {
         frontEnd: {
-            js: ["React", "Vue", "Next.js"],
+            js: ["React", "Vue"],
             css: ["Tailwind", "Bootstrap", "Sass"]
         },
         backEnd: {
             js: ["Node.js", "Express"],
         },
-        databases: ["MongoDB",],
-        tools: ["Git", "Postman", "Figma", "VS Code"]
+        databases: ["MongoDB", "PostgreSQL",],
+        tools: ["Git",  "Figma", "VS Code"]
     },
     currentFocus: "Building scalable web applications",
     funFact: "I debug with console.log and I'm not ashamed! 😄"
@@ -80,14 +80,10 @@ const azizbek = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Database & Cloud ☁️
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
 ### Tools & Workflow 🔧
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -111,9 +107,9 @@ const azizbek = {
 
 <div align="center">
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=azizmardonqulov6-collab&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=azizmardonqulov6-collab&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 
 </div>
 
@@ -121,13 +117,13 @@ const azizbek = {
 
 <div align="center">
 
-## 🎨 Contribution Snake
+## 🐍 Watch My Contributions Get Eaten!
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azizmardonqulov6-collab/azizmardonqulov6-collab/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azizmardonqulov6-collab/azizmardonqulov6-collab/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/azizmardonqulov6-collab/azizmardonqulov6-collab/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+### 📊 Contribution Heatmap
+
+<img src="https://ghchart.rshah.org/409ba5/azizmardonqulov6-collab" alt="Contribution Graph" width="90%" />
 
 </div>
 
